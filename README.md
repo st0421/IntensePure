@@ -17,8 +17,10 @@ Market-1501: https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html
 ## Pre-trained weight
 Person re-ID: [https://github.com/layumi/Person_reID_baseline_pytorch/blob/master/tutorial/README.md](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master)
 
-### Train
-python [IntensPure.py](IntensPure.py)  -p train
-
-### Test 
+### Train & Test
+```
+# Train
+python [IntensPure.py](IntensPure.py) -p train
+# Test
 python [IntensPure.py](IntensPure.py) -p test.
+```
