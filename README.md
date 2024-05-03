@@ -1,4 +1,4 @@
-#IntensPure: Attack Intensity-aware Secondary Domain Adaptive Diffusion for Adversarial Purification
+# IntensPure: Attack Intensity-aware Secondary Domain Adaptive Diffusion for Adversarial Purification
 
 Eun-Gi Lee, Moon Seok Lee, Jae Hyun Yoon and Seok Bong Yoo*
 
