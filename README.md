@@ -15,7 +15,7 @@ The papaer presented at [IJCAI2024](https://ijcai24.org/).
 Market-1501: https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html
 
 ## Pre-trained weight
-Person re-ID: https://github.com/layumi/Person_reID_baseline_pytorch/blob/master/tutorial/README.md
+Person re-ID: [https://github.com/layumi/Person_reID_baseline_pytorch/blob/master/tutorial/README.md](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master)
 
 ### Train
 python [IntensPure.py](IntensPure.py)  -p train
