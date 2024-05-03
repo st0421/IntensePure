@@ -18,7 +18,7 @@ Market-1501: https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html
 Person re-ID: https://github.com/layumi/Person_reID_baseline_pytorch/blob/master/tutorial/README.md
 
 ### Train
-using [train.py](train.py).
+python [IntensPure.py](IntensPure.py)  -p train
 
 ### Test 
-using [test.py](test.py). 
+python [IntensPure.py](IntensPure.py) -p test.
