@@ -20,7 +20,7 @@ Person re-ID: [https://github.com/layumi/Person_reID_baseline_pytorch/blob/maste
 ### Train & Test
 ```
 # Train
-python [IntensPure.py](IntensPure.py) -p train
+python IntensPure.py -p train
 # Test
-python [IntensPure.py](IntensPure.py) -p test.
+python IntensPure.py -p test.
 ```
